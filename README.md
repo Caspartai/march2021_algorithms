@@ -1,8 +1,12 @@
 # Algorithms :rocket:
 
+Pull this!
+
 ## Purpose :dark_sunglasses:
 
 The purpose of this repository is to allow students to practice and build up their javascript skills, mainly by working through these algorithms.
+
+*Check out cheatsheet.md
 
 ### How to run this package
 
