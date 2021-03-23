@@ -8,6 +8,7 @@
 
 function capitalize(str) {
   // CODE HERE
+  str.startCase()
 }
 
 module.exports = { capitalize };
